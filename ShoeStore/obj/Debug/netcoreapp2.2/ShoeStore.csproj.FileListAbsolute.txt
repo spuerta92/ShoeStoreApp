@@ -1,0 +1,16 @@
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\bin\Debug\netcoreapp2.2\ShoeStore.deps.json
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\bin\Debug\netcoreapp2.2\ShoeStore.runtimeconfig.json
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\bin\Debug\netcoreapp2.2\ShoeStore.runtimeconfig.dev.json
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\bin\Debug\netcoreapp2.2\ShoeStore.dll
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\bin\Debug\netcoreapp2.2\ShoeStore.pdb
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\obj\Debug\netcoreapp2.2\ShoeStore.csprojAssemblyReference.cache
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\obj\Debug\netcoreapp2.2\ShoeStore.RazorAssemblyInfo.cache
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\obj\Debug\netcoreapp2.2\ShoeStore.RazorAssemblyInfo.cs
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\obj\Debug\netcoreapp2.2\ShoeStore.AssemblyInfoInputs.cache
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\obj\Debug\netcoreapp2.2\ShoeStore.AssemblyInfo.cs
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\obj\Debug\netcoreapp2.2\ShoeStore.RazorTargetAssemblyInfo.cache
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\obj\Debug\netcoreapp2.2\ShoeStore.dll
+C:\Users\spuerta000\Documents\Projects\ShoeStore\ShoeStore\obj\Debug\netcoreapp2.2\ShoeStore.pdb
